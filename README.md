@@ -36,7 +36,8 @@ Boss直聘批量投递脚本，Boss没有批量投递功能，而且Boss回复�
 
   1、风险就是有可能会被BOSS直聘暂停访问PC端web页面，但是手机客户端不受影响，说明 B/S 框架产品和 C/S 框架产品调用的API互不影响  
   2、也许可以尝试自动化 C/S 框架产品投递简历，目前还没有思路，可能要学一些知识才能实现了，目前暂时没时间，等找到工作稳定下来再尝试  
-  ![bdhbc0](https://github.com/UiLgNoD-lIaMtOh/Boss-Direct-Hiring-Batch-Communication-Script/assets/144557489/dc292d15-1ca5-41d9-a2b1-696d617c1351)
-  ![bdhbc1](https://github.com/UiLgNoD-lIaMtOh/Boss-Direct-Hiring-Batch-Communication-Script/assets/144557489/c1d9d2b4-3a7d-45e1-b024-4fd39c3b4ecd)
+  ![6](https://github.com/user-attachments/assets/1fd18c68-0a67-4fd3-804f-d653450f6d0c)
+  ![7](https://github.com/user-attachments/assets/b6f9c0fa-ef4e-4325-bc23-3a3ed41b614e)
+
 
 
